@@ -2,7 +2,7 @@
 
 ## Overview
 
-This assignment involves creating a two-player Tic-Tac-Toe game. The game should allow players to take turns, display the current game status, and provide an option to reset the game at any time.
+It involves creating a two-player Tic-Tac-Toe game. The game should allow players to take turns, display the current game status, and provide an option to reset the game at any time.
 
 ## Game Description
 
